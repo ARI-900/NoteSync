@@ -18,10 +18,14 @@
 ## 🖼️ Screenshots
 
 ### Light Mode
-![Light Mode Screenshot](https://via.placeholder.com/800x400?text=Light+Mode+Screenshot)
+<img width="959" alt="paste_light" src="https://github.com/user-attachments/assets/437190df-a7a5-4b0e-b33e-c27a34f73f1b" />
+
+
 
 ### Dark Mode
-![Dark Mode Screenshot](https://via.placeholder.com/800x400?text=Dark+Mode+Screenshot)
+<img width="944" alt="paste" src="https://github.com/user-attachments/assets/55cdb7b3-0880-43c9-a9eb-95ef4d5372bb" />
+
+<img width="947" alt="home" src="https://github.com/user-attachments/assets/e63890f2-1e5f-4e00-b0f9-85dc62f1651a" />
 
 ---
 
